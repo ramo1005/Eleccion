@@ -1,0 +1,11 @@
+Eleccion:Prueba#1
+Fecha:29/04/2021
+
+Resultados de la posicion: Presidente
+{"candidato_id":53,"cedula":"0010078278","nombres":"DANILO","apellidos":"MEDINA SANCHEZ","partido":"PLD","puesto":"Presidente","Votos Conseguidos":1,"Votos totales":1,"Porcentaje":"100.0000"}
+
+
+Resultados de la posicion: Senador
+{"candidato_id":55,"cedula":"4020969382","nombres":"RAMON ANTONIO","apellidos":"MELO OLIVERO","partido":"PRM","puesto":"Senador","Votos Conseguidos":1,"Votos totales":1,"Porcentaje":"100.0000"}
+
+
